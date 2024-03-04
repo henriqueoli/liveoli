@@ -176,7 +176,7 @@ blockquote {
   padding: 20px;
   width: 100%;
   min-height: 650px; }
-  @media screen and (max-width: 2000px) {
+  @media screen and (max-width: 5000px) {
     /* line 220, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Agency/dev-mac-upload/source/stylesheets/style.scss */
     .centered.large {
       position: relative !important;
